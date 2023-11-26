@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 22
-  productGUID: b11cc027b03904d9d867cbf1a59df98d
+  productGUID: bc26d1ea3113e4c1197c9fe10ed633e7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MRTIDianosaur
+  productName: tutorial01
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -681,10 +681,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 3303bb40-1103-4a0f-b55d-6adc38faf59f
+  cloudProjectId: 53305041-7e78-4aa7-ad42-02c5e4633106
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MRTIDianosaur
+  projectName: tutorial01
   organizationId: unity_96yean
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
